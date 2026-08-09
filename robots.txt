@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-frfj1k.juragan89site.store/sitemap.xml
